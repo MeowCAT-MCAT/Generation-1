@@ -1,0 +1,5 @@
+As an enzyme is a protein, it may denature at a suboptimal temperature or pH.
+Inhibitors disrupt the enzyme's active site.
+With the addition of more substrate.
+Compete with substrate for an enzyme's active site.
+Non-Competetive Inhibitors alter an enzyme by binding to a portion of it other than the active site, such that the substrate can no longer "fit" in the active site, preventing (Vmax).

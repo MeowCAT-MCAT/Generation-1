@@ -1,0 +1,3 @@
+How do Non-Competetive Inhibitors alter an enzyme?
+
+Non-Competetive Inhibitors alter an enzyme by binding to a portion of it other than the active site, such that the substrate can no longer "fit" in the active site, preventing (Vmax).

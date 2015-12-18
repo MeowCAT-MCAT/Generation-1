@@ -1,0 +1,3 @@
+What will happen if you add more substrate to a rate-limited reaction?
+
+The addition of more substrates won't increase the reaction rate if all active sites are bound, as they are in a rate-limited reaction.
